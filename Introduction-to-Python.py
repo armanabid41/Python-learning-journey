@@ -4,6 +4,7 @@ marks = [85, 90.1, 78, 'A']
 marks[0] = 95 # list can be modified
 print(type(marks)) # <class 'list'>
 print(marks)
+
 #plotting in python
 #subplots
 import numpy as np
