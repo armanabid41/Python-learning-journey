@@ -52,7 +52,7 @@ This repository documents my progress from Python basics to advanced Signal Proc
 | **Core Computation** | `NumPy`, `Math` |
 | **Visualization** | `Matplotlib.pyplot` |
 | **Image Processing** | `OpenCV (cv2)` |
-| **Environment** | Jupyter Notebook / Google Colab |
+| **Environment** | Jupyter Notebook / Spyder IDE |
 
 ---
 
